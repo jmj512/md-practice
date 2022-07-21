@@ -25,3 +25,11 @@ print("Hello World")
 
 ![이미지설명-옆에는 이미지url 들어가요](https://lh3.googleusercontent.com/lYhhH_bEYC_rRd1RcYDIbqMNG3byqPiqeKXQoNjneNAdbD9xyNVhq7BmZIpwASKtkp6ZYRMU01Co2oyl8tfJceE0ZFcQYrKKd9YBu9EqfFZQw1ytT8KM)
 
+
+### git __init ? init?? 머ㅣㅈㅇ??
+### git remote add origin github주소복붙!!
+### git remote -v
+### git add .
+### git status
+### git commit -m "first commit(원하는 이름 입력)"
+### git push origin master/main둘중하나입력(vs code 왼쪽 하단에서 체크!!)
