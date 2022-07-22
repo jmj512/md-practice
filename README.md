@@ -25,7 +25,7 @@ print("Hello World")
 
 ![이미지설명-옆에는 이미지url 들어가요](https://lh3.googleusercontent.com/lYhhH_bEYC_rRd1RcYDIbqMNG3byqPiqeKXQoNjneNAdbD9xyNVhq7BmZIpwASKtkp6ZYRMU01Co2oyl8tfJceE0ZFcQYrKKd9YBu9EqfFZQw1ytT8KM)
 
-### 깃 레포지토리 
+### 깃 레포지토리 먼저 만들어야 함!
 ### git init
 ### git remote add origin github주소복붙!!
 ### git remote -v
