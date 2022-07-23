@@ -33,3 +33,13 @@ print("Hello World")
 ### git status
 ### git commit -m "first commit(원하는 이름 입력)"
 ### git push origin master/main둘중하나입력(vs code 왼쪽 하단에서 체크!!)
+
+### /깃허브에서 pull하고 add하기 !!
+
+### git pull origin master
+
+### git add .
+
+### git commit -m “~~~”
+
+### git push origin (branch이름)
